@@ -1,0 +1,20 @@
+<section>
+    <h2>Caractéristique</h2>
+        <p>
+            <ul>
+<li>Alimentation : via port USB ou 7 à 12 V sur connecteur alim</li>
+Microprocesseur : ATMega328
+Mémoire flash : 32 kB
+Mémoire SRAM : 2 kB
+Mémoire EEPROM : 1 kB
+14 broches d'E/S dont 6 PWM
+6 entrées analogiques 10 bits
+Intensité par E/S : 40 mA
+Cadencement : 16 MHz
+Bus série, I2C et SPI
+Gestion des interruptions
+Fiche USB B
+Dimensions: 74 x 53 x 15 mm
+            </ul>
+        </p>
+</section>

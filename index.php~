@@ -50,29 +50,23 @@
 					</p>
 				</section>
 
-                <section>
-                        <?php include("arduino.inc.php"); ?>
+                <?php include("arduino.inc.php"); ?>
 
-                        <?php include("atouts.inc.php"); ?>
+                <?php include("atouts.inc.php"); ?>
 
-                        <?php include("pourqui.inc.php"); ?>
+                <?php include("pourqui.inc.php"); ?>
 
-                        <?php include("arduinouno.inc.php"); ?>
-                        
-                        <?php include("caracteristique.inc.php"); ?>
-                        
-                        <?php include("logiciel.inc.php"); ?>
-                        
-                        <?php include("langage.inc.php"); ?>
-                        
-                        <?php include("shield.inc.php"); ?>
+                <?php include("arduinouno.inc.php"); ?>
+                
+                <?php include("caracteristique.inc.php"); ?>
+                
+                <?php include("logiciel.inc.php"); ?>
+                
+                <?php include("langage.inc.php"); ?>
+                
+                <?php include("shield.inc.php"); ?>
 
-                        <?php include("applications.inc.php"); ?>
-
-
-                </section>
-
-                 <?php include("robot.inc.php"); ?>
+                <?php include("robot.inc.php"); ?>
 
                 <?php include("exemple_led.inc.php"); ?>
 
