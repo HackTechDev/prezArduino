@@ -3,7 +3,7 @@
         <p>
             <ul>
                 <li>Petite carte électronique</li>
-                <li>Microcontroleur programmable</li> 
+                <li>Microcontrôleur programmable</li> 
                 <li>Plusieurs entrées et sorties numériques et analogique</li>
                     <ul>
                         <li>Recoit des informations par des capteurs</li>
