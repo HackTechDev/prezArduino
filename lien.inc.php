@@ -6,6 +6,7 @@
                             <li><a href="http://hacklab.fr">Hacklab/ILArd</a>
                             <li><a href="https://github.com/Nekrofage/prezArduino">Repository Github de la présentation</a></li>
                             <li><a href="http://www.devoxx.com/display/FR12/Pour+une+fois+soyons+physique!+Une+introduction+a+Arduino.">Pour une fois soyons physique! Une introduction à Arduino</a>
+                            <li><a href="http://gotronic.fr">Gotronic</a></li>
                         </ul>
 					</p>
 
